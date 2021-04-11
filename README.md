@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### 
+![kramfs](https://github-readme-stats.vercel.app/api?username=kramfs&count_private=true&show_icons=true&theme=merko)
 <!--
 **kramfs/kramfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
